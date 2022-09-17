@@ -11,7 +11,7 @@ import {Api_url} from "../../Api_url/Api_Url";
 
 export default function Dashcard() {
 
-    const [jobs, setJobs] = useState({});
+    const [jobs, setJobs] = useState([]);
 
     const getEmployees = async () => {
         const response = await fetch(`${Api_url}/getwork`);
