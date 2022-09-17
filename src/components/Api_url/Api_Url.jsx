@@ -1,1 +1,1 @@
-export const Api_url = "http://localhost:4000/api";
+export const Api_url = "https://fiverr-server.herokuapp.com/api";
