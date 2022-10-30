@@ -1,1 +1,0 @@
-export const Api_url = "https://fiverr-server.herokuapp.com/api";
